@@ -1,2 +1,2 @@
 # muxxxe_videojuego
-Proyecto videojuego MUXXXE
+Esta parte del proyecto esta hecha para probar el workflow modular con github
